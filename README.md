@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anaragomez
-- 👀 I’m interested in web development and journalism
+- 👀 I’m interested in web development and marketing digital
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me anamrg495@gmail.com
